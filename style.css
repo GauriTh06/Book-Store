@@ -132,3 +132,42 @@ footer {
  font-size: 30px;
  font-weight: 400;
 }
+@media screen and  (max-width: 470px) {
+    .header-text{
+        font-size:20px ;
+        font-weight: 300;
+}
+.book-link{
+    font-size:15px ;
+    font-weight: 400;
+}
+.link-text{
+    font-size:13px ;
+    font-weight: 300;
+    margin: 25px 10px; }
+.header-img{
+        height: 300px;
+}
+.sub-head-text{
+    font-size:25px ;
+    font-weight: 400;
+}
+.card{
+    width:150px;
+    margin: 10px;
+}
+.Buy-now-button{
+   font-size: 10px;
+   width: 100px;
+   margin-left: 25px;
+   
+}
+.main-card-conatiner{
+    flex-wrap: wrap;
+}
+.text{
+    font-size: 15px;
+}
+.foot-text{
+    font-size: 15px;
+}
