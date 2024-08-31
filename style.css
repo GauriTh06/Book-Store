@@ -171,3 +171,29 @@ footer {
 .foot-text{
     font-size: 15px;
 }
+}
+/*Tablet Device*/
+
+@media screen and (min-width: 470px) and (max-width: 720px) {
+
+    
+.card{
+    width:180px;
+    margin: 10px;
+}
+.Buy-now-button{
+   font-size: 15px;
+   width: 100px;
+   margin-left: 38px;
+   
+}
+.main-card-conatiner{
+    flex-wrap: wrap;
+}
+.text{
+    font-size: 15px;
+}
+.foot-text{
+    font-size: 15px;
+}
+}
